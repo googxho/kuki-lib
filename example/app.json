@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "rn-vant-expo-demo",
+    "description": "Rn Vant + Expo Example",
+    "slug": "rn-vant-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "scheme": "testing",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.dice.www",
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.dice.www"
+    },
+    "web": {
+      "favicon": "https://img01.yzcdn.cn/vant/logo.png"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js"
+    }
+  }
+}
