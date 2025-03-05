@@ -19,13 +19,13 @@
 ## Install
 
 ```sh
-yarn add @pingtou/rn-vant
+yarn add @kuki-lib/rn-vant
 ```
 
 Or
 
 ```sh
-npm install @pingtou/rn-vant
+npm install @kuki-lib/rn-vant
 ```
 
 ## Preview
@@ -40,7 +40,7 @@ The following are some code examples of rn-vant:
 
 ```jsx
 import React from 'react';
-import { Button } from '@pingtou/rn-vant';
+import { Button } from '@kuki-lib/rn-vant';
 
 function App() {
   return <Button type="primary">Default Button</Button>;
