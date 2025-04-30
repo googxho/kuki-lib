@@ -16,4 +16,4 @@ yarn add @kuki-lib/rn-vant-icons
 
 ## Document
 
-- [Usage in React Native](https://bijinfeng.github.io/dice/docs/components/icon)
+

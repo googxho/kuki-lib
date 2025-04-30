@@ -15,5 +15,5 @@ group:
 ## 引入
 
 ```js
-import { Form } from '@pingtou/rn-vant';
+import { Form } from '@kuki-lib/rn-vant';
 ```

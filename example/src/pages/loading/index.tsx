@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { Loading } from '@pingtou/rn-vant';
+import { Loading } from '@kuki-lib/rn-vant';
 import { View, StyleSheet } from 'react-native';
 import { DemoBlock } from '../../components';
 

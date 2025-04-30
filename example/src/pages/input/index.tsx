@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { ScrollView } from 'react-native';
-import { Cell, Input, Toast } from '@pingtou/rn-vant';
+import { Cell, Input, Toast } from '@kuki-lib/rn-vant';
 import { DemoBlock } from '../../components';
 
 const InputExample = memo(() => {

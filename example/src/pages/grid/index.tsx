@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 import { ScrollView } from 'react-native';
-import { Grid, Image } from '@pingtou/rn-vant';
-import { PhotoO, HomeO, Search } from '@pingtou/rn-vant-icons';
+import { Grid, Image } from '@kuki-lib/rn-vant';
+import { PhotoO, HomeO, Search } from '@kuki-lib/rn-vant-icons';
 import { DemoBlock } from '../../components';
 
 const GridExample = memo(() => {

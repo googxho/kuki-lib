@@ -28,7 +28,7 @@ export default defineConfig({
     null,
     {
       logo: 'https://b.yzcdn.cn/vant/logo/github.svg',
-      path: 'https://github.com/bijinfeng/rn-vant',
+      path: 'https://github.com/googxho/kuki-lib',
     },
   ],
   resolve: {
@@ -38,7 +38,7 @@ export default defineConfig({
   base: '/',
   publicPath: '/',
   sitemap: {
-    hostname: 'https://bijinfeng.github.io/rn-vant/',
+    hostname: '',
   },
   // more config: https://d.umijs.org/config
 } as IConfig);

@@ -1,6 +1,6 @@
 import React, { memo, useState } from 'react';
-import Icon from '@pingtou/rn-vant-icons';
-import { Notify, Cell } from '@pingtou/rn-vant';
+import Icon from '@kuki-lib/rn-vant-icons';
+import { Notify, Cell } from '@kuki-lib/rn-vant';
 import { ScrollView, Text } from 'react-native';
 import { DemoBlock } from '../../components';
 

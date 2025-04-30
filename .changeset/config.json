@@ -3,7 +3,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "bijinfeng/rn-vant"
+      "repo": "googxho/kuki-lib"
     }
   ],
   "commit": false,

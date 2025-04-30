@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Pressable, Text } from 'react-native';
-import Icon from '@pingtou/rn-vant-icons';
+import Icon from '@kuki-lib/rn-vant-icons';
 import Dialog from './Dialog';
 import { useThemeFactory } from '../Theme';
 import { createStyle } from './style';

@@ -1,5 +1,5 @@
 import React, { memo, useState } from 'react';
-import { Button, Overlay } from '@pingtou/rn-vant';
+import { Button, Overlay } from '@kuki-lib/rn-vant';
 import { View } from 'react-native';
 import { DemoBlock } from '../../components';
 

@@ -7,7 +7,7 @@
     "rn-vant",
     "icon"
   ],
-  "author": "bijinfeng <bijinfeng@bytedance.com>",
+  "author": "kuki <kuki@bytedance.com>",
   "license": "MIT",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

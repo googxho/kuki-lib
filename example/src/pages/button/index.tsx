@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 import { StyleSheet } from 'react-native';
-import { Button } from '@pingtou/rn-vant';
-import { Plus } from '@pingtou/rn-vant-icons';
+import { Button } from '@kuki-lib/rn-vant';
+import { Plus } from '@kuki-lib/rn-vant-icons';
 import { DemoBlock } from '../../components';
 
 const ButtonExample = memo(() => {

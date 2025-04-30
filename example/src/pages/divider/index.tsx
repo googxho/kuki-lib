@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { ScrollView } from 'react-native';
-import { Divider } from '@pingtou/rn-vant';
+import { Divider } from '@kuki-lib/rn-vant';
 import { DemoBlock } from '../../components';
 
 const DividerExample = memo(() => {

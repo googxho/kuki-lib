@@ -13,7 +13,7 @@ group:
 ## 引入
 
 ```js
-import { SwipeCell } from '@pingtou/rn-vant';
+import { SwipeCell } from '@kuki-lib/rn-vant';
 ```
 
 ## 代码演示
@@ -24,7 +24,7 @@ import { SwipeCell } from '@pingtou/rn-vant';
 
 ```tsx
 import React from 'react';
-import { SwipeCell, Button, Cell } from '@pingtou/rn-vant';
+import { SwipeCell, Button, Cell } from '@kuki-lib/rn-vant';
 
 export default () => {
   return (
@@ -55,7 +55,7 @@ export default () => {
 
 ```tsx
 import React from 'react';
-import { SwipeCell, Button, Cell, Toast } from '@pingtou/rn-vant';
+import { SwipeCell, Button, Cell, Toast } from '@kuki-lib/rn-vant';
 
 export default () => {
   return (
@@ -81,7 +81,7 @@ export default () => {
 ```tsx
 import React from 'react';
 import { View } from 'react-native';
-import { SwipeCell, Button, Typography, Image } from '@pingtou/rn-vant';
+import { SwipeCell, Button, Typography, Image } from '@kuki-lib/rn-vant';
 
 export default () => {
   return (
@@ -138,8 +138,8 @@ export default () => {
 ```tsx
 import React, { useRef } from 'react';
 import { View } from 'react-native';
-import { SwipeCell, Button, Cell, SwipeCellInstance } from '@pingtou/rn-vant';
-import { Arrow, ArrowLeft, Cross } from '@pingtou/rn-vant-icons';
+import { SwipeCell, Button, Cell, SwipeCellInstance } from '@kuki-lib/rn-vant';
+import { Arrow, ArrowLeft, Cross } from '@kuki-lib/rn-vant-icons';
 
 export default () => {
   const ref = useRef<SwipeCellInstance>(null);

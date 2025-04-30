@@ -8,8 +8,8 @@ import {
   Image,
   Typography,
   SwipeCellInstance,
-} from '@pingtou/rn-vant';
-import { Arrow, ArrowLeft, Cross } from '@pingtou/rn-vant-icons';
+} from '@kuki-lib/rn-vant';
+import { Arrow, ArrowLeft, Cross } from '@kuki-lib/rn-vant-icons';
 import { DemoBlock } from '../../components';
 
 const SwipeCellExample = memo(() => {

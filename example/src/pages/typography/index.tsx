@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { Typography } from '@pingtou/rn-vant';
+import { Typography } from '@kuki-lib/rn-vant';
 import { ScrollView } from 'react-native';
 import { DemoBlock } from '../../components';
 

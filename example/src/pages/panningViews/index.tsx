@@ -5,7 +5,7 @@ import {
   PanDismissibleView,
   useThemeFactory,
   PanResponderView,
-} from '@pingtou/rn-vant';
+} from '@kuki-lib/rn-vant';
 import { View, Text, StyleSheet } from 'react-native';
 import { DemoBlock } from '../../components';
 

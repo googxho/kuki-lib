@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 import { ScrollView } from 'react-native';
-import { Cell } from '@pingtou/rn-vant';
+import { Cell } from '@kuki-lib/rn-vant';
 import { DemoBlock } from '../../components';
 import CalendarSingle from './CalendarSingle';
 

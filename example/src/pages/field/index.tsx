@@ -1,8 +1,8 @@
 import React, { memo, useState } from 'react';
 import { ScrollView, Text, KeyboardAvoidingView } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { Field, Cell, Toast, Button } from '@pingtou/rn-vant';
-import { SmileO, MusicO, WarningO } from '@pingtou/rn-vant-icons';
+import { Field, Cell, Toast, Button } from '@kuki-lib/rn-vant';
+import { SmileO, MusicO, WarningO } from '@kuki-lib/rn-vant-icons';
 import { DemoBlock } from '../../components';
 
 const FieldExample = memo(() => {

@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
-import Icon from '@pingtou/rn-vant-icons';
-import { NavBar, Toast } from '@pingtou/rn-vant';
+import Icon from '@kuki-lib/rn-vant-icons';
+import { NavBar, Toast } from '@kuki-lib/rn-vant';
 import { ScrollView } from 'react-native';
 import { DemoBlock } from '../../components';
 

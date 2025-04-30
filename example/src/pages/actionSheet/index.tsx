@@ -1,6 +1,6 @@
 import React, { memo, useState } from 'react';
 import { ScrollView, View, Text } from 'react-native';
-import { Cell, ActionSheet, ActionSheetAction } from '@pingtou/rn-vant';
+import { Cell, ActionSheet, ActionSheetAction } from '@kuki-lib/rn-vant';
 import { DemoBlock } from '../../components';
 
 const defaultActions: ActionSheetAction[] = [

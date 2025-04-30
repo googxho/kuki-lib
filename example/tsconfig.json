@@ -2,10 +2,10 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "paths": {
-      "@pingtou/rn-vant": [
+      "@kuki-lib/rn-vant": [
         "../packages/rn-vant/src/index"
       ],
-      "@pingtou/rn-vant-icons": [
+      "@kuki-lib/rn-vant-icons": [
         "../packages/rn-vant-icons/src/index"
       ],
     },

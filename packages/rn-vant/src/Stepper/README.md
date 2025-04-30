@@ -18,7 +18,7 @@ group:
 
 ```jsx
 import React, { useState } from 'react';
-import { Stepper } from '@pingtou/rn-vant';
+import { Stepper } from '@kuki-lib/rn-vant';
 
 export default () => {
   const [value, setValue] = useState(1);
@@ -89,7 +89,7 @@ export default () => {
 
 ```jsx
 import React, { useState } from 'react';
-import { Stepper, Toast } from '@pingtou/rn-vant';
+import { Stepper, Toast } from '@kuki-lib/rn-vant';
 
 let timer: ReturnType<typeof setTimeout>;
 

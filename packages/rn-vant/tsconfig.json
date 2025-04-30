@@ -2,7 +2,7 @@
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "paths": {
-      "@pingtou/rn-vant": ["./src/index"],
+      "@kuki-lib/rn-vant": ["./src/index"],
     },
   },
   "exclude": ["lib/**/*"]

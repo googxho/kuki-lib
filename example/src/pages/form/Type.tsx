@@ -9,7 +9,7 @@ import {
   Rate,
   Slider,
   Space,
-} from '@pingtou/rn-vant';
+} from '@kuki-lib/rn-vant';
 import { DemoBlock } from '../../components';
 
 export default () => {

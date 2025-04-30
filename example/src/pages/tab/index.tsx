@@ -1,6 +1,6 @@
 import React, { memo, useContext } from 'react';
 import { ScrollView, Text, ViewStyle, View } from 'react-native';
-import { Tabs } from '@pingtou/rn-vant';
+import { Tabs } from '@kuki-lib/rn-vant';
 import { GlobalContext } from '../../GlobalContext';
 import { DemoBlock } from '../../components';
 

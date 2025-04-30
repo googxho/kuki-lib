@@ -148,7 +148,7 @@ DatetimePicker 通过 type 属性来定义需要选择的时间类型，type 为
 
 ```tsx
 import React, { useState } from 'react';
-import { DatetimePicker, Field, Popup } from '@pingtou/rn-vant';
+import { DatetimePicker, Field, Popup } from '@kuki-lib/rn-vant';
 
 export default () => {
   const [fieldValue, setFieldValue] = useState('');
